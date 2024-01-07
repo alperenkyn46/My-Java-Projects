@@ -20,6 +20,7 @@ public class BirlestirMatris {
             sondizi[i][0]=dizi1[i];
             sondizi[i][1]=dizi2[i];
             sondizi[i][2]=(dizi1[i]*dizi2[i]);
+            
         }
         return sondizi;
     }

@@ -21,23 +21,26 @@ public class QuizSoru4 {
     public static void kareAlYazdir(int [][]dizi) {
         int a=0;
         int b=2;
-
+        int sayac=0;
         for(int i=0;i<dizi.length;i++)
         {
             for(int j=0;j<dizi[i].length;j++)
             {
-                if(dizi[i][i]==dizi[j][j])
-                {
+                if(sayac==0) {
                     System.out.print(dizi[i][j]*dizi[i][j]+" ");
+                    sayac++;
                 }
-                else if(dizi[i][j]==dizi[a][b])
-                {
+                else if (sayac%2==0) {
                     System.out.print(dizi[i][j]*dizi[i][j]+" ");
-                    a++;
-                    b--;
+                    sayac++;
                 }
-                else
+                else if(sayac%2==1) {
                     System.out.print(dizi[i][j]+" ");
+                    sayac++;
+                }
+
+
+
             }
             System.out.println();
         }
