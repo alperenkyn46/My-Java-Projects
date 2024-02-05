@@ -7,7 +7,7 @@ public class BirlestirMatris {
         Random r=new Random();
         for(int i=0;i<3;i++) {
             dizi1[i]=anadizi[r.nextInt(5)];
-            dizi2[i]=anadizi[r.nextInt()];
+            dizi2[i]=anadizi[r.nextInt(5)];
         }
     }
 

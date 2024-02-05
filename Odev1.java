@@ -45,7 +45,7 @@ public class Odev1 {
             }
         }
         System.out.println();
-        System.out.println(dogru+" question answered correctly, your program is ended...");
+        System.out.println("\n"+dogru+" question answered correctly, your program is ended...");
     }
 
 }

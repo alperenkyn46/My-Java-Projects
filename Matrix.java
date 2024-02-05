@@ -49,7 +49,7 @@ public class Matrix {
 
 
         displayMatrix(newMatrix);
-//		isPerfect1(6);
+		isPerfect1(6);
 //		isPerfect(newMatrix);
 
     }

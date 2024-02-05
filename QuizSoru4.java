@@ -19,8 +19,7 @@ public class QuizSoru4 {
         return dizi;}
 
     public static void kareAlYazdir(int [][]dizi) {
-        int a=0;
-        int b=2;
+
         int sayac=0;
         for(int i=0;i<dizi.length;i++)
         {
