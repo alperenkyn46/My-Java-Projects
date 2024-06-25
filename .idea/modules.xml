@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/My-Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/My-Java-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenKeyboardSample/ScreenKeyboardSample.iml" filepath="$PROJECT_DIR$/ScreenKeyboardSample/ScreenKeyboardSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadExample/ThreadExample.iml" filepath="$PROJECT_DIR$/ThreadExample/ThreadExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadExample_2/ThreadExample_2.iml" filepath="$PROJECT_DIR$/ThreadExample_2/ThreadExample_2.iml" />
     </modules>
