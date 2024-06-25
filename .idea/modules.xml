@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicCityGuessGame/BasicCityGuessGame.iml" filepath="$PROJECT_DIR$/BasicCityGuessGame/BasicCityGuessGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book_System_Console/Book_System_Console.iml" filepath="$PROJECT_DIR$/Book_System_Console/Book_System_Console.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmployeExample/EmployeExample.iml" filepath="$PROJECT_DIR$/EmployeExample/EmployeExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta_2_Proje1/Hafta_2_Proje1.iml" filepath="$PROJECT_DIR$/Hafta_2_Proje1/Hafta_2_Proje1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/My-Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/My-Java-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadExample/ThreadExample.iml" filepath="$PROJECT_DIR$/ThreadExample/ThreadExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadExample_2/ThreadExample_2.iml" filepath="$PROJECT_DIR$/ThreadExample_2/ThreadExample_2.iml" />
     </modules>
   </component>
 </project>
